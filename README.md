@@ -1,8 +1,9 @@
 # 🏏 CricketAuction - Real-Time Fantasy Cricket Auction Platform
 
-**CricketAuction** is a modern, full-stack MERN application that brings the excitement of a live cricket auction to your fingertips. Unlike traditional fantasy leagues, CricketAuction features an interactive real-time bidding system where players are exclusively owned by the highest bidder.
+> 🌐 **Live Working Link**: [https://mganesh09.github.io/cricketAuctionRoom/](https://mganesh09.github.io/cricketAuctionRoom/)  
+> 📂 **GitHub Repository**: [https://github.com/MGanesh09/cricketAuctionRoom](https://github.com/MGanesh09/cricketAuctionRoom)
 
-Repository: [https://github.com/MGanesh09/cricketAuctionRoom](https://github.com/MGanesh09/cricketAuctionRoom)
+**CricketAuction** is a modern, full-stack MERN application that brings the excitement of a live cricket auction to your fingertips. Unlike traditional fantasy leagues, CricketAuction features an interactive real-time bidding system where players are exclusively owned by the highest bidder.
 
 ## 🚀 Key Features
 
